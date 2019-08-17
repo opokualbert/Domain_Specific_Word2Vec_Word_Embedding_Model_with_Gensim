@@ -1,2 +1,5 @@
-# Domain_Specific_Word2Vec_Word_Embedding_Model_with_Gensim
-Training domain specific Word2Vec word embedding model with Gensim
+# Training domain specific Word2Vec word embedding model with Gensim
+
+<img src="Spacy_screensot.JPG">
+
+The vector of a word is a semantic representation of how that word is used in context. Word2Vec assumes two words that have the same context will also share the same meaning and therefore, both words will have similar vectors.
