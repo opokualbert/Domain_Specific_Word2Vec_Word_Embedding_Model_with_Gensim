@@ -1,0 +1,2 @@
+# Domain_Specific_Word2Vec_Word_Embedding_Model_with_Gensim
+Training domain specific Word2Vec word embedding model with Gensim
