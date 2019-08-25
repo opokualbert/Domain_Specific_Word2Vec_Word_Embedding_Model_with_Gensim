@@ -28,6 +28,6 @@ From the code example for our domain specific model, we are able to find the mos
 
 <img src="foreclosure.JPG">
 
-If you need to read more about Word2vec and embeddings, this is a good article on [kdnuggets](https://www.kdnuggets.com/2019/02/word-embeddings-nlp-applications.html) or this fantastic podcast by [Data Sceptic](http://dataskeptic.com/blog/episodes/2019/word2vec)
+If you need to read more about Word2vec and embeddings, this is a good article on [kdnuggets](https://www.kdnuggets.com/2019/02/word-embeddings-nlp-applications.html) or this fantastic podcast by [Data Skeptic](http://dataskeptic.com/blog/episodes/2019/word2vec)
 
 
